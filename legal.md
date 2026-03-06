@@ -6,11 +6,11 @@
 
 | 項目 | 内容 |
 | :--- | :--- |
-| **販売業者**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | （請求があり次第開示します） |
-| **運営責任者**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | （請求があり次第開示します） |
-| **所在地**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | （請求があり次第開示します） |
-| **電話番号**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | （請求があり次第、遅滞なく開示します） |
-| **メールアドレス**&nbsp;&nbsp;&nbsp;&nbsp; | Dev.nod.helpdesk@outlook.jp |
+| **販売業者** | （請求があり次第開示します） |
+| **運営責任者** | （請求があり次第開示します） |
+| **所在地** | （請求があり次第開示します） |
+| **電話番号** | （請求があり次第、遅滞なく開示します） |
+| **メールアドレス** | Dev.nod.helpdesk@outlook.jp |
 | **販売価格** | 各プランの購入画面に表示される金額のとおり（消費税込み） |
 | **代金の支払時期** | App Store / Google Playの規定に準じます |
 | **代金の支払方法** | App Store / Google Playを通じたお支払い |
